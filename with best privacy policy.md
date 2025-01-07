@@ -1,7 +1,7 @@
 # Top Temporary Email Service Providers with Good Privacy Policies  
 
 1. **[FreeCustom.Email](https://freecustom.email)**  
-   FreeCustom.Email stands out with its focus on user privacy, providing disposable email addresses to protect your real inbox. Emails received at these temporary addresses are deleted after a specified period, ensuring no long-term data storage. Their [Privacy Policy](https://www.freecustom.email/privacy-policy) emphasizes transparency and safeguards against unauthorized access to user data.  
+   FreeCustom.Email stands out with its focus on user privacy, providing disposable email addresses to protect your real inbox. Emails received at these temporary addresses are deleted after a specified period, ensuring no long-term data storage. Their [Privacy Policy](https://freecustom.email/blog/privacy-policy) emphasizes transparency and safeguards against unauthorized access to user data.  
 
 2. **Temp-Mail**  
    Temp-Mail is a popular service offering temporary email addresses with a strong emphasis on privacy. It ensures no personal data is stored and deletes emails after a short period. Their [Privacy Policy](https://temp-mail.org/en/privacy-policy/) outlines clear terms regarding data usage and retention.  
